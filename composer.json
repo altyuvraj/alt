@@ -2,11 +2,11 @@
   "name":  "altyuvraj/alt",
   "repositories": [
     {
-      "type": "vcs",
+      "type": "git",
       "url": "https://github.com/altyuvraj/alt.git"
     }
   ],
   "require": {
-    "altyuvraj/alt": "dev-master"
+    "altyuvraj/alt": "master"
   }
 }
