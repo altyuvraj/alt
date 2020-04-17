@@ -1,0 +1,12 @@
+{
+  "name":  "daggerhart/my-project-that-uses-composer",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/daggerhart/my-custom-library.git"
+    }
+  ],
+  "require": {
+    "daggerhart/my-custom-library": "dev-master"
+  }
+}
